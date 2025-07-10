@@ -1,0 +1,631 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Lamthue\\LeThao\\Ecommerce-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F9F780A-B9BC-B4A2-FB58-CF6F10F0509A}|EcommerceBackend\\EcommerceBackend.csproj|c:\\lamthue\\lethao\\ecommerce-master\\ecommercebackend\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F9F780A-B9BC-B4A2-FB58-CF6F10F0509A}|EcommerceBackend\\EcommerceBackend.csproj|solutionrelative:ecommercebackend\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F9F780A-B9BC-B4A2-FB58-CF6F10F0509A}|EcommerceBackend\\EcommerceBackend.csproj|c:\\lamthue\\lethao\\ecommerce-master\\ecommercebackend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F9F780A-B9BC-B4A2-FB58-CF6F10F0509A}|EcommerceBackend\\EcommerceBackend.csproj|solutionrelative:ecommercebackend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F9F780A-B9BC-B4A2-FB58-CF6F10F0509A}|EcommerceBackend\\EcommerceBackend.csproj|c:\\lamthue\\lethao\\ecommerce-master\\ecommercebackend\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F9F780A-B9BC-B4A2-FB58-CF6F10F0509A}|EcommerceBackend\\EcommerceBackend.csproj|solutionrelative:ecommercebackend\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F9F780A-B9BC-B4A2-FB58-CF6F10F0509A}|EcommerceBackend\\EcommerceBackend.csproj|c:\\lamthue\\lethao\\ecommerce-master\\ecommercebackend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F9F780A-B9BC-B4A2-FB58-CF6F10F0509A}|EcommerceBackend\\EcommerceBackend.csproj|solutionrelative:ecommercebackend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F9F780A-B9BC-B4A2-FB58-CF6F10F0509A}|EcommerceBackend\\EcommerceBackend.csproj|c:\\lamthue\\lethao\\ecommerce-master\\ecommercebackend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F9F780A-B9BC-B4A2-FB58-CF6F10F0509A}|EcommerceBackend\\EcommerceBackend.csproj|solutionrelative:ecommercebackend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F9F780A-B9BC-B4A2-FB58-CF6F10F0509A}|EcommerceBackend\\EcommerceBackend.csproj|c:\\lamthue\\lethao\\ecommerce-master\\ecommercebackend\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F9F780A-B9BC-B4A2-FB58-CF6F10F0509A}|EcommerceBackend\\EcommerceBackend.csproj|solutionrelative:ecommercebackend\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F9F780A-B9BC-B4A2-FB58-CF6F10F0509A}|EcommerceBackend\\EcommerceBackend.csproj|c:\\lamthue\\lethao\\ecommerce-master\\ecommercebackend\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F9F780A-B9BC-B4A2-FB58-CF6F10F0509A}|EcommerceBackend\\EcommerceBackend.csproj|solutionrelative:ecommercebackend\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F9F780A-B9BC-B4A2-FB58-CF6F10F0509A}|EcommerceBackend\\EcommerceBackend.csproj|c:\\lamthue\\lethao\\ecommerce-master\\ecommercebackend\\models\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F9F780A-B9BC-B4A2-FB58-CF6F10F0509A}|EcommerceBackend\\EcommerceBackend.csproj|solutionrelative:ecommercebackend\\models\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F9F780A-B9BC-B4A2-FB58-CF6F10F0509A}|EcommerceBackend\\EcommerceBackend.csproj|c:\\lamthue\\lethao\\ecommerce-master\\ecommercebackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F9F780A-B9BC-B4A2-FB58-CF6F10F0509A}|EcommerceBackend\\EcommerceBackend.csproj|solutionrelative:ecommercebackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F9F780A-B9BC-B4A2-FB58-CF6F10F0509A}|EcommerceBackend\\EcommerceBackend.csproj|c:\\lamthue\\lethao\\ecommerce-master\\ecommercebackend\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F9F780A-B9BC-B4A2-FB58-CF6F10F0509A}|EcommerceBackend\\EcommerceBackend.csproj|solutionrelative:ecommercebackend\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F9F780A-B9BC-B4A2-FB58-CF6F10F0509A}|EcommerceBackend\\EcommerceBackend.csproj|c:\\lamthue\\lethao\\ecommerce-master\\ecommercebackend\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F9F780A-B9BC-B4A2-FB58-CF6F10F0509A}|EcommerceBackend\\EcommerceBackend.csproj|solutionrelative:ecommercebackend\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F9F780A-B9BC-B4A2-FB58-CF6F10F0509A}|EcommerceBackend\\EcommerceBackend.csproj|c:\\lamthue\\lethao\\ecommerce-master\\ecommercebackend\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F9F780A-B9BC-B4A2-FB58-CF6F10F0509A}|EcommerceBackend\\EcommerceBackend.csproj|solutionrelative:ecommercebackend\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F9F780A-B9BC-B4A2-FB58-CF6F10F0509A}|EcommerceBackend\\EcommerceBackend.csproj|c:\\lamthue\\lethao\\ecommerce-master\\ecommercebackend\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F9F780A-B9BC-B4A2-FB58-CF6F10F0509A}|EcommerceBackend\\EcommerceBackend.csproj|solutionrelative:ecommercebackend\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F9F780A-B9BC-B4A2-FB58-CF6F10F0509A}|EcommerceBackend\\EcommerceBackend.csproj|c:\\lamthue\\lethao\\ecommerce-master\\ecommercebackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9F9F780A-B9BC-B4A2-FB58-CF6F10F0509A}|EcommerceBackend\\EcommerceBackend.csproj|solutionrelative:ecommercebackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F9F780A-B9BC-B4A2-FB58-CF6F10F0509A}|EcommerceBackend\\EcommerceBackend.csproj|c:\\lamthue\\lethao\\ecommerce-master\\ecommercebackend\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F9F780A-B9BC-B4A2-FB58-CF6F10F0509A}|EcommerceBackend\\EcommerceBackend.csproj|solutionrelative:ecommercebackend\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Lamthue\\LeThao\\Ecommerce-master\\EcommerceBackend\\Migrations\\20250612153157_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EcommerceBackend\\Migrations\\20250612153157_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F9F780A-B9BC-B4A2-FB58-CF6F10F0509A}|EcommerceBackend\\EcommerceBackend.csproj|c:\\lamthue\\lethao\\ecommerce-master\\ecommercebackend\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F9F780A-B9BC-B4A2-FB58-CF6F10F0509A}|EcommerceBackend\\EcommerceBackend.csproj|solutionrelative:ecommercebackend\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F9F780A-B9BC-B4A2-FB58-CF6F10F0509A}|EcommerceBackend\\EcommerceBackend.csproj|c:\\lamthue\\lethao\\ecommerce-master\\ecommercebackend\\migrations\\20250611123710_bo sung bang vao may o nha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F9F780A-B9BC-B4A2-FB58-CF6F10F0509A}|EcommerceBackend\\EcommerceBackend.csproj|solutionrelative:ecommercebackend\\migrations\\20250611123710_bo sung bang vao may o nha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F9F780A-B9BC-B4A2-FB58-CF6F10F0509A}|EcommerceBackend\\EcommerceBackend.csproj|c:\\lamthue\\lethao\\ecommerce-master\\ecommercebackend\\migrations\\20250610021743_bo sung bang carts, orders, orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F9F780A-B9BC-B4A2-FB58-CF6F10F0509A}|EcommerceBackend\\EcommerceBackend.csproj|solutionrelative:ecommercebackend\\migrations\\20250610021743_bo sung bang carts, orders, orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F9F780A-B9BC-B4A2-FB58-CF6F10F0509A}|EcommerceBackend\\EcommerceBackend.csproj|c:\\lamthue\\lethao\\ecommerce-master\\ecommercebackend\\migrations\\20250610002037_add may nha truong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F9F780A-B9BC-B4A2-FB58-CF6F10F0509A}|EcommerceBackend\\EcommerceBackend.csproj|solutionrelative:ecommercebackend\\migrations\\20250610002037_add may nha truong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F9F780A-B9BC-B4A2-FB58-CF6F10F0509A}|EcommerceBackend\\EcommerceBackend.csproj|c:\\lamthue\\lethao\\ecommerce-master\\ecommercebackend\\migrations\\20250604130510_add product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F9F780A-B9BC-B4A2-FB58-CF6F10F0509A}|EcommerceBackend\\EcommerceBackend.csproj|solutionrelative:ecommercebackend\\migrations\\20250604130510_add product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F9F780A-B9BC-B4A2-FB58-CF6F10F0509A}|EcommerceBackend\\EcommerceBackend.csproj|c:\\lamthue\\lethao\\ecommerce-master\\ecommercebackend\\migrations\\20250520003345_initnew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F9F780A-B9BC-B4A2-FB58-CF6F10F0509A}|EcommerceBackend\\EcommerceBackend.csproj|solutionrelative:ecommercebackend\\migrations\\20250520003345_initnew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F9F780A-B9BC-B4A2-FB58-CF6F10F0509A}|EcommerceBackend\\EcommerceBackend.csproj|c:\\lamthue\\lethao\\ecommerce-master\\ecommercebackend\\migrations\\20250429034102_add product table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F9F780A-B9BC-B4A2-FB58-CF6F10F0509A}|EcommerceBackend\\EcommerceBackend.csproj|solutionrelative:ecommercebackend\\migrations\\20250429034102_add product table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F9F780A-B9BC-B4A2-FB58-CF6F10F0509A}|EcommerceBackend\\EcommerceBackend.csproj|c:\\lamthue\\lethao\\ecommerce-master\\ecommercebackend\\migrations\\20250429023351_chay lai db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F9F780A-B9BC-B4A2-FB58-CF6F10F0509A}|EcommerceBackend\\EcommerceBackend.csproj|solutionrelative:ecommercebackend\\migrations\\20250429023351_chay lai db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F9F780A-B9BC-B4A2-FB58-CF6F10F0509A}|EcommerceBackend\\EcommerceBackend.csproj|c:\\lamthue\\lethao\\ecommerce-master\\ecommercebackend\\migrations\\20250422030729_bo sung category 1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F9F780A-B9BC-B4A2-FB58-CF6F10F0509A}|EcommerceBackend\\EcommerceBackend.csproj|solutionrelative:ecommercebackend\\migrations\\20250422030729_bo sung category 1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F9F780A-B9BC-B4A2-FB58-CF6F10F0509A}|EcommerceBackend\\EcommerceBackend.csproj|c:\\lamthue\\lethao\\ecommerce-master\\ecommercebackend\\migrations\\20250422025815_bo sung category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F9F780A-B9BC-B4A2-FB58-CF6F10F0509A}|EcommerceBackend\\EcommerceBackend.csproj|solutionrelative:ecommercebackend\\migrations\\20250422025815_bo sung category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F9F780A-B9BC-B4A2-FB58-CF6F10F0509A}|EcommerceBackend\\EcommerceBackend.csproj|c:\\lamthue\\lethao\\ecommerce-master\\ecommercebackend\\migrations\\20250422020140_khoi tao moi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F9F780A-B9BC-B4A2-FB58-CF6F10F0509A}|EcommerceBackend\\EcommerceBackend.csproj|solutionrelative:ecommercebackend\\migrations\\20250422020140_khoi tao moi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F9F780A-B9BC-B4A2-FB58-CF6F10F0509A}|EcommerceBackend\\EcommerceBackend.csproj|c:\\lamthue\\lethao\\ecommerce-master\\ecommercebackend\\migrations\\20250415135947_khoi tao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F9F780A-B9BC-B4A2-FB58-CF6F10F0509A}|EcommerceBackend\\EcommerceBackend.csproj|solutionrelative:ecommercebackend\\migrations\\20250415135947_khoi tao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F9F780A-B9BC-B4A2-FB58-CF6F10F0509A}|EcommerceBackend\\EcommerceBackend.csproj|c:\\lamthue\\lethao\\ecommerce-master\\ecommercebackend\\migrations\\20250408030744_khoitao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F9F780A-B9BC-B4A2-FB58-CF6F10F0509A}|EcommerceBackend\\EcommerceBackend.csproj|solutionrelative:ecommercebackend\\migrations\\20250408030744_khoitao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F9F780A-B9BC-B4A2-FB58-CF6F10F0509A}|EcommerceBackend\\EcommerceBackend.csproj|c:\\lamthue\\lethao\\ecommerce-master\\ecommercebackend\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F9F780A-B9BC-B4A2-FB58-CF6F10F0509A}|EcommerceBackend\\EcommerceBackend.csproj|solutionrelative:ecommercebackend\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F9F780A-B9BC-B4A2-FB58-CF6F10F0509A}|EcommerceBackend\\EcommerceBackend.csproj|c:\\lamthue\\lethao\\ecommerce-master\\ecommercebackend\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F9F780A-B9BC-B4A2-FB58-CF6F10F0509A}|EcommerceBackend\\EcommerceBackend.csproj|solutionrelative:ecommercebackend\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F9F780A-B9BC-B4A2-FB58-CF6F10F0509A}|EcommerceBackend\\EcommerceBackend.csproj|c:\\lamthue\\lethao\\ecommerce-master\\ecommercebackend\\nuget.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9F9F780A-B9BC-B4A2-FB58-CF6F10F0509A}|EcommerceBackend\\EcommerceBackend.csproj|solutionrelative:ecommercebackend\\nuget.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F9F780A-B9BC-B4A2-FB58-CF6F10F0509A}|EcommerceBackend\\EcommerceBackend.csproj|c:\\lamthue\\lethao\\ecommerce-master\\ecommercebackend\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9F9F780A-B9BC-B4A2-FB58-CF6F10F0509A}|EcommerceBackend\\EcommerceBackend.csproj|solutionrelative:ecommercebackend\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F9F780A-B9BC-B4A2-FB58-CF6F10F0509A}|EcommerceBackend\\EcommerceBackend.csproj|c:\\lamthue\\lethao\\ecommerce-master\\ecommercebackend\\migrations\\20250612153650_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F9F780A-B9BC-B4A2-FB58-CF6F10F0509A}|EcommerceBackend\\EcommerceBackend.csproj|solutionrelative:ecommercebackend\\migrations\\20250612153650_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 21,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6d52cee1-a15c-42fd-8d30-faacc8d1dd02}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Lamthue\\LeThao\\Ecommerce-master\\EcommerceBackend\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "EcommerceBackend\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Lamthue\\LeThao\\Ecommerce-master\\EcommerceBackend\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "EcommerceBackend\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAANEAAAAAAAAAAAAAAOUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T06:13:00.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Lamthue\\LeThao\\Ecommerce-master\\EcommerceBackend\\Models\\User.cs",
+              "RelativeDocumentMoniker": "EcommerceBackend\\Models\\User.cs",
+              "ToolTip": "C:\\Lamthue\\LeThao\\Ecommerce-master\\EcommerceBackend\\Models\\User.cs",
+              "RelativeToolTip": "EcommerceBackend\\Models\\User.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAYwBcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T14:51:52.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Lamthue\\LeThao\\Ecommerce-master\\EcommerceBackend\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "EcommerceBackend\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Lamthue\\LeThao\\Ecommerce-master\\EcommerceBackend\\Controllers\\UserController.cs",
+              "RelativeToolTip": "EcommerceBackend\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T02:08:02.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderDetails.cs",
+              "DocumentMoniker": "C:\\Lamthue\\LeThao\\Ecommerce-master\\EcommerceBackend\\Models\\OrderDetails.cs",
+              "RelativeDocumentMoniker": "EcommerceBackend\\Models\\OrderDetails.cs",
+              "ToolTip": "C:\\Lamthue\\LeThao\\Ecommerce-master\\EcommerceBackend\\Models\\OrderDetails.cs",
+              "RelativeToolTip": "EcommerceBackend\\Models\\OrderDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T14:52:42.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Lamthue\\LeThao\\Ecommerce-master\\EcommerceBackend\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "EcommerceBackend\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Lamthue\\LeThao\\Ecommerce-master\\EcommerceBackend\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "EcommerceBackend\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAowFwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T02:06:58.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Lamthue\\LeThao\\Ecommerce-master\\EcommerceBackend\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "EcommerceBackend\\Models\\Product.cs",
+              "ToolTip": "C:\\Lamthue\\LeThao\\Ecommerce-master\\EcommerceBackend\\Models\\Product.cs",
+              "RelativeToolTip": "EcommerceBackend\\Models\\Product.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA+wB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T14:52:38.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Lamthue\\LeThao\\Ecommerce-master\\EcommerceBackend\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "EcommerceBackend\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Lamthue\\LeThao\\Ecommerce-master\\EcommerceBackend\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "EcommerceBackend\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T02:06:29.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Lamthue\\LeThao\\Ecommerce-master\\EcommerceBackend\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "EcommerceBackend\\Models\\Order.cs",
+              "ToolTip": "C:\\Lamthue\\LeThao\\Ecommerce-master\\EcommerceBackend\\Models\\Order.cs",
+              "RelativeToolTip": "EcommerceBackend\\Models\\Order.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T14:55:46.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Lamthue\\LeThao\\Ecommerce-master\\EcommerceBackend\\Program.cs",
+              "RelativeDocumentMoniker": "EcommerceBackend\\Program.cs",
+              "ToolTip": "C:\\Lamthue\\LeThao\\Ecommerce-master\\EcommerceBackend\\Program.cs",
+              "RelativeToolTip": "EcommerceBackend\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T14:47:50.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Lamthue\\LeThao\\Ecommerce-master\\EcommerceBackend\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "EcommerceBackend\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Lamthue\\LeThao\\Ecommerce-master\\EcommerceBackend\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "EcommerceBackend\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA1wAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T15:05:39.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Lamthue\\LeThao\\Ecommerce-master\\EcommerceBackend\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "EcommerceBackend\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Lamthue\\LeThao\\Ecommerce-master\\EcommerceBackend\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "EcommerceBackend\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAowEUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T02:07:38.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Lamthue\\LeThao\\Ecommerce-master\\EcommerceBackend\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "EcommerceBackend\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Lamthue\\LeThao\\Ecommerce-master\\EcommerceBackend\\Controllers\\CartController.cs",
+              "RelativeToolTip": "EcommerceBackend\\Controllers\\CartController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T02:06:40.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Lamthue\\LeThao\\Ecommerce-master\\EcommerceBackend\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "EcommerceBackend\\Models\\Category.cs",
+              "ToolTip": "C:\\Lamthue\\LeThao\\Ecommerce-master\\EcommerceBackend\\Models\\Category.cs",
+              "RelativeToolTip": "EcommerceBackend\\Models\\Category.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T14:55:50.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Lamthue\\LeThao\\Ecommerce-master\\EcommerceBackend\\appsettings.json",
+              "RelativeDocumentMoniker": "EcommerceBackend\\appsettings.json",
+              "ToolTip": "C:\\Lamthue\\LeThao\\Ecommerce-master\\EcommerceBackend\\appsettings.json",
+              "RelativeToolTip": "EcommerceBackend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-12T14:47:53.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Lamthue\\LeThao\\Ecommerce-master\\EcommerceBackend\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "EcommerceBackend\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Lamthue\\LeThao\\Ecommerce-master\\EcommerceBackend\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "EcommerceBackend\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T02:08:13.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20250612153157_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Lamthue\\LeThao\\Ecommerce-master\\EcommerceBackend\\Migrations\\20250612153157_InitialCreate.cs",
+              "RelativeDocumentMoniker": "EcommerceBackend\\Migrations\\20250612153157_InitialCreate.cs",
+              "ToolTip": "C:\\Lamthue\\LeThao\\Ecommerce-master\\EcommerceBackend\\Migrations\\20250612153157_InitialCreate.cs",
+              "RelativeToolTip": "EcommerceBackend\\Migrations\\20250612153157_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T15:31:58.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Lamthue\\LeThao\\Ecommerce-master\\EcommerceBackend\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "EcommerceBackend\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Lamthue\\LeThao\\Ecommerce-master\\EcommerceBackend\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "EcommerceBackend\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T14:31:07.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20250612153650_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Lamthue\\LeThao\\Ecommerce-master\\EcommerceBackend\\Migrations\\20250612153650_InitialCreate.cs",
+              "RelativeDocumentMoniker": "EcommerceBackend\\Migrations\\20250612153650_InitialCreate.cs",
+              "ToolTip": "C:\\Lamthue\\LeThao\\Ecommerce-master\\EcommerceBackend\\Migrations\\20250612153650_InitialCreate.cs",
+              "RelativeToolTip": "EcommerceBackend\\Migrations\\20250612153650_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T15:36:50.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20250610021743_Bo sung bang Carts, Orders, OrderDetails.cs",
+              "DocumentMoniker": "C:\\Lamthue\\LeThao\\Ecommerce-master\\EcommerceBackend\\Migrations\\20250610021743_Bo sung bang Carts, Orders, OrderDetails.cs",
+              "RelativeDocumentMoniker": "EcommerceBackend\\Migrations\\20250610021743_Bo sung bang Carts, Orders, OrderDetails.cs",
+              "ToolTip": "C:\\Lamthue\\LeThao\\Ecommerce-master\\EcommerceBackend\\Migrations\\20250610021743_Bo sung bang Carts, Orders, OrderDetails.cs",
+              "RelativeToolTip": "EcommerceBackend\\Migrations\\20250610021743_Bo sung bang Carts, Orders, OrderDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T14:57:49.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20250611123710_Bo sung bang vao may o nha.cs",
+              "DocumentMoniker": "C:\\Lamthue\\LeThao\\Ecommerce-master\\EcommerceBackend\\Migrations\\20250611123710_Bo sung bang vao may o nha.cs",
+              "RelativeDocumentMoniker": "EcommerceBackend\\Migrations\\20250611123710_Bo sung bang vao may o nha.cs",
+              "ToolTip": "C:\\Lamthue\\LeThao\\Ecommerce-master\\EcommerceBackend\\Migrations\\20250611123710_Bo sung bang vao may o nha.cs",
+              "RelativeToolTip": "EcommerceBackend\\Migrations\\20250611123710_Bo sung bang vao may o nha.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T14:57:50.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20250610002037_Add may nha truong.cs",
+              "DocumentMoniker": "C:\\Lamthue\\LeThao\\Ecommerce-master\\EcommerceBackend\\Migrations\\20250610002037_Add may nha truong.cs",
+              "RelativeDocumentMoniker": "EcommerceBackend\\Migrations\\20250610002037_Add may nha truong.cs",
+              "ToolTip": "C:\\Lamthue\\LeThao\\Ecommerce-master\\EcommerceBackend\\Migrations\\20250610002037_Add may nha truong.cs",
+              "RelativeToolTip": "EcommerceBackend\\Migrations\\20250610002037_Add may nha truong.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T14:57:48.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20250604130510_add product.cs",
+              "DocumentMoniker": "C:\\Lamthue\\LeThao\\Ecommerce-master\\EcommerceBackend\\Migrations\\20250604130510_add product.cs",
+              "RelativeDocumentMoniker": "EcommerceBackend\\Migrations\\20250604130510_add product.cs",
+              "ToolTip": "C:\\Lamthue\\LeThao\\Ecommerce-master\\EcommerceBackend\\Migrations\\20250604130510_add product.cs",
+              "RelativeToolTip": "EcommerceBackend\\Migrations\\20250604130510_add product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T14:57:47.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20250520003345_InitNew.cs",
+              "DocumentMoniker": "C:\\Lamthue\\LeThao\\Ecommerce-master\\EcommerceBackend\\Migrations\\20250520003345_InitNew.cs",
+              "RelativeDocumentMoniker": "EcommerceBackend\\Migrations\\20250520003345_InitNew.cs",
+              "ToolTip": "C:\\Lamthue\\LeThao\\Ecommerce-master\\EcommerceBackend\\Migrations\\20250520003345_InitNew.cs",
+              "RelativeToolTip": "EcommerceBackend\\Migrations\\20250520003345_InitNew.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T14:57:46.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20250429034102_add Product table.cs",
+              "DocumentMoniker": "C:\\Lamthue\\LeThao\\Ecommerce-master\\EcommerceBackend\\Migrations\\20250429034102_add Product table.cs",
+              "RelativeDocumentMoniker": "EcommerceBackend\\Migrations\\20250429034102_add Product table.cs",
+              "ToolTip": "C:\\Lamthue\\LeThao\\Ecommerce-master\\EcommerceBackend\\Migrations\\20250429034102_add Product table.cs",
+              "RelativeToolTip": "EcommerceBackend\\Migrations\\20250429034102_add Product table.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T14:57:44.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20250429023351_Chay lai db.cs",
+              "DocumentMoniker": "C:\\Lamthue\\LeThao\\Ecommerce-master\\EcommerceBackend\\Migrations\\20250429023351_Chay lai db.cs",
+              "RelativeDocumentMoniker": "EcommerceBackend\\Migrations\\20250429023351_Chay lai db.cs",
+              "ToolTip": "C:\\Lamthue\\LeThao\\Ecommerce-master\\EcommerceBackend\\Migrations\\20250429023351_Chay lai db.cs",
+              "RelativeToolTip": "EcommerceBackend\\Migrations\\20250429023351_Chay lai db.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T14:57:39.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20250422030729_Bo sung Category 1.cs",
+              "DocumentMoniker": "C:\\Lamthue\\LeThao\\Ecommerce-master\\EcommerceBackend\\Migrations\\20250422030729_Bo sung Category 1.cs",
+              "RelativeDocumentMoniker": "EcommerceBackend\\Migrations\\20250422030729_Bo sung Category 1.cs",
+              "ToolTip": "C:\\Lamthue\\LeThao\\Ecommerce-master\\EcommerceBackend\\Migrations\\20250422030729_Bo sung Category 1.cs",
+              "RelativeToolTip": "EcommerceBackend\\Migrations\\20250422030729_Bo sung Category 1.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T14:57:10.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20250422025815_Bo sung Category.cs",
+              "DocumentMoniker": "C:\\Lamthue\\LeThao\\Ecommerce-master\\EcommerceBackend\\Migrations\\20250422025815_Bo sung Category.cs",
+              "RelativeDocumentMoniker": "EcommerceBackend\\Migrations\\20250422025815_Bo sung Category.cs",
+              "ToolTip": "C:\\Lamthue\\LeThao\\Ecommerce-master\\EcommerceBackend\\Migrations\\20250422025815_Bo sung Category.cs",
+              "RelativeToolTip": "EcommerceBackend\\Migrations\\20250422025815_Bo sung Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T14:56:56.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20250422020140_Khoi tao moi.cs",
+              "DocumentMoniker": "C:\\Lamthue\\LeThao\\Ecommerce-master\\EcommerceBackend\\Migrations\\20250422020140_Khoi tao moi.cs",
+              "RelativeDocumentMoniker": "EcommerceBackend\\Migrations\\20250422020140_Khoi tao moi.cs",
+              "ToolTip": "C:\\Lamthue\\LeThao\\Ecommerce-master\\EcommerceBackend\\Migrations\\20250422020140_Khoi tao moi.cs",
+              "RelativeToolTip": "EcommerceBackend\\Migrations\\20250422020140_Khoi tao moi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T14:56:52.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20250415135947_Khoi tao.cs",
+              "DocumentMoniker": "C:\\Lamthue\\LeThao\\Ecommerce-master\\EcommerceBackend\\Migrations\\20250415135947_Khoi tao.cs",
+              "RelativeDocumentMoniker": "EcommerceBackend\\Migrations\\20250415135947_Khoi tao.cs",
+              "ToolTip": "C:\\Lamthue\\LeThao\\Ecommerce-master\\EcommerceBackend\\Migrations\\20250415135947_Khoi tao.cs",
+              "RelativeToolTip": "EcommerceBackend\\Migrations\\20250415135947_Khoi tao.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T14:56:49.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20250408030744_KhoiTao.cs",
+              "DocumentMoniker": "C:\\Lamthue\\LeThao\\Ecommerce-master\\EcommerceBackend\\Migrations\\20250408030744_KhoiTao.cs",
+              "RelativeDocumentMoniker": "EcommerceBackend\\Migrations\\20250408030744_KhoiTao.cs",
+              "ToolTip": "C:\\Lamthue\\LeThao\\Ecommerce-master\\EcommerceBackend\\Migrations\\20250408030744_KhoiTao.cs",
+              "RelativeToolTip": "EcommerceBackend\\Migrations\\20250408030744_KhoiTao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T14:56:09.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Lamthue\\LeThao\\Ecommerce-master\\EcommerceBackend\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "EcommerceBackend\\Models\\Cart.cs",
+              "ToolTip": "C:\\Lamthue\\LeThao\\Ecommerce-master\\EcommerceBackend\\Models\\Cart.cs",
+              "RelativeToolTip": "EcommerceBackend\\Models\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T14:55:57.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Lamthue\\LeThao\\Ecommerce-master\\EcommerceBackend\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "EcommerceBackend\\WeatherForecast.cs",
+              "ToolTip": "C:\\Lamthue\\LeThao\\Ecommerce-master\\EcommerceBackend\\WeatherForecast.cs",
+              "RelativeToolTip": "EcommerceBackend\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T14:51:43.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Nuget.config",
+              "DocumentMoniker": "C:\\Lamthue\\LeThao\\Ecommerce-master\\EcommerceBackend\\Nuget.config",
+              "RelativeDocumentMoniker": "EcommerceBackend\\Nuget.config",
+              "ToolTip": "C:\\Lamthue\\LeThao\\Ecommerce-master\\EcommerceBackend\\Nuget.config",
+              "RelativeToolTip": "EcommerceBackend\\Nuget.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-12T14:51:30.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Lamthue\\LeThao\\Ecommerce-master\\EcommerceBackend\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "EcommerceBackend\\appsettings.Development.json",
+              "ToolTip": "C:\\Lamthue\\LeThao\\Ecommerce-master\\EcommerceBackend\\appsettings.Development.json",
+              "RelativeToolTip": "EcommerceBackend\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-12T14:30:34.448Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
